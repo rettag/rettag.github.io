@@ -1,0 +1,35 @@
+h1 {
+  text-align: center;
+  color: blue;
+}
+h2 {
+  text-align: center;
+  color: red;
+}
+
+table {
+  background-color: rgb(50, 90, 150);
+}
+
+.table_head {
+  font-size: 16pt;
+  color: blue;
+}
+
+.table_one {
+  text-align: center;
+}
+.table_two {
+  text-align: center;
+}
+.table_three {
+  text-align: center;
+}
+
+#UM {
+  float:right;
+}
+
+.page {
+  background-color: LightSteelBlue;
+}
